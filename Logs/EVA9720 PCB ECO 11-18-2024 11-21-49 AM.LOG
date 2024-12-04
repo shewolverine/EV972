@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D1 Old Footprint=0603 - LED New Footprint=0805 - LED
+Change Component Footprint: Designator=D2 Old Footprint=0603 - LED New Footprint=0805 - LED
+Added Member To Class: ClassName=EVA9720 Member=Component J1 SMA REF_IN

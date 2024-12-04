@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GNDA Pin=J1-1
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-2
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-2
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-2
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-2
+Removed Pin From Net: NetName=GNDA Pin=J2-1
+Removed Pin From Net: NetName=GNDA Pin=J3-1
+Removed Pin From Net: NetName=GNDA Pin=J4-1
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-2
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-2
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-2
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-2
+Removed Pin From Net: NetName=GNDA Pin=J5-1
+Added Pin To Net: NetName=NetC4_2 Pin=J1-1
+Added Pin To Net: NetName=GNDA Pin=J1-2
+Added Pin To Net: NetName=GNDA Pin=J1-2
+Added Pin To Net: NetName=GNDA Pin=J1-2
+Added Pin To Net: NetName=GNDA Pin=J1-2
+Added Pin To Net: NetName=GNDA Pin=J2-2
+Added Pin To Net: NetName=GNDA Pin=J2-2
+Added Pin To Net: NetName=GNDA Pin=J2-2
+Added Pin To Net: NetName=GNDA Pin=J2-2
+Added Pin To Net: NetName=GNDA Pin=J3-2
+Added Pin To Net: NetName=GNDA Pin=J3-2
+Added Pin To Net: NetName=GNDA Pin=J3-2
+Added Pin To Net: NetName=GNDA Pin=J3-2
+Added Pin To Net: NetName=NetC37_1 Pin=J4-1
+Added Pin To Net: NetName=GNDA Pin=J4-2
+Added Pin To Net: NetName=GNDA Pin=J4-2
+Added Pin To Net: NetName=GNDA Pin=J4-2
+Added Pin To Net: NetName=GNDA Pin=J4-2
+Added Pin To Net: NetName=GNDA Pin=J5-2
+Added Pin To Net: NetName=GNDA Pin=J5-2
+Added Pin To Net: NetName=GNDA Pin=J5-2
+Added Pin To Net: NetName=GNDA Pin=J5-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R3-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R8-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R10-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R14-2
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=L2-1
+Added Net: Name=NetJ5_1

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=TP2-1
+Removed Member From Class: ClassName=EVA9720 Member=TP2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=TP2

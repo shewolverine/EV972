@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=J2-3
+Removed Pin From Net: NetName=NetJ2_2 Pin=J2-4
+Removed Pin From Net: NetName=NetJ2_2 Pin=J2-5
+Removed Pin From Net: NetName=NetJ2_2 Pin=R8-1
+Removed Pin From Net: NetName=GNDA Pin=R8-2
+Change Component DesignItemId : Designator=J2 Old DesignItemId=COAX-M New DesignItemId=SMA Right Angle Connector
+Change Component Footprint: Designator=J2 Old Footprint=MMCX2.54-V5 New Footprint=SMA_RA_DIP
+Change Component Comment : Designator=J2 Old Comment=TX_OUT New Comment=SMA Right Angle Connector
+Added Pin To Net: NetName=GNDA Pin=R8-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R8-2

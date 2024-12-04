@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC13_1 Pin=L3-2
+Change Component DesignItemId : Designator=L3 Old DesignItemId=IHLP4040DZER220M11 New DesignItemId=28F0121-0SR-10
+Change Component Footprint: Designator=L1 Old Footprint=INDPM108102X400N New Footprint=0805
+Change Component Footprint: Designator=L2 Old Footprint=INDPM108102X400N New Footprint=0805
+Change Component Footprint: Designator=L3 Old Footprint=XTAL_2-SMD New Footprint=0805
+Change Component Comment : Designator=L3 Old Comment=Inductor New Comment=28F0121-0SR-10

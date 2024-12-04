@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-3
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-4
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-5
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-3
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-4
+Removed Pin From Net: NetName=NetJ3_2 Pin=J3-5
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-3
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-4
+Removed Pin From Net: NetName=NetC37_1 Pin=J4-5
+Removed Pin From Net: NetName=NetJ5_2 Pin=J5-3
+Removed Pin From Net: NetName=NetJ5_2 Pin=J5-4
+Removed Pin From Net: NetName=NetJ5_2 Pin=J5-5
+Removed Pin From Net: NetName=NetC9_2 Pin=TP2-1
+Removed Member From Class: ClassName=EVA9720 Member=TP2
+Change Component DesignItemId : Designator=J1 Old DesignItemId=COAX-M New DesignItemId=SMA Right Angle Connector
+Change Component DesignItemId : Designator=J3 Old DesignItemId=COAX-M New DesignItemId=SMA Right Angle Connector
+Change Component DesignItemId : Designator=J4 Old DesignItemId=COAX-M New DesignItemId=SMA Right Angle Connector
+Change Component DesignItemId : Designator=J5 Old DesignItemId=COAX-M New DesignItemId=SMA Right Angle Connector
+Change Component Footprint: Designator=J1 Old Footprint=MMCX2.54-V5 New Footprint=SMA_RA_DIP
+Change Component Footprint: Designator=J3 Old Footprint=MMCX2.54-V5 New Footprint=SMA_RA_DIP
+Change Component Footprint: Designator=J4 Old Footprint=MMCX2.54-V5 New Footprint=SMA_RA_DIP
+Change Component Footprint: Designator=J5 Old Footprint=MMCX2.54-V5 New Footprint=SMA_RA_DIP
+Change Component Footprint: Designator=J6 Old Footprint=TE_282837-2 New Footprint=Klemens_Terminal_2P
+Change Component Comment : Designator=J5 Old Comment=IF_IN New Comment=SMA IF_IN
+Change Component Comment : Designator=J3 Old Comment=LO_IN New Comment=SMA LO_IN
+Change Component Comment : Designator=J1 Old Comment=REF_IN New Comment=SMA REF_IN
+Change Component Comment : Designator=J2 Old Comment=SMA Right Angle Connector New Comment=SMA TX_OUT
+Change Net Name : Old Net Name=NetC9_2 New Net Name=TP2

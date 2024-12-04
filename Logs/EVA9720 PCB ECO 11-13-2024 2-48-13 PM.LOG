@@ -1,0 +1,9 @@
+Added Component: Designator=J7(HDR2X10)
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_6 Pin=J7-6
+Added Pin To Net: NetName=NetJ7_8 Pin=J7-8
+Added Pin To Net: NetName=NetJ7_10 Pin=J7-10
+Added Pin To Net: NetName=GNDD Pin=J7-11
+Added Pin To Net: NetName=GNDD Pin=J7-12
+Added Member To Class: ClassName=TankPins Member=Component J7 Header 10X2

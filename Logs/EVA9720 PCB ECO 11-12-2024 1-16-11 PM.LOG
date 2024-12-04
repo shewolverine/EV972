@@ -1,0 +1,12 @@
+Added Component: Designator=L1(INDPM108102X400N)
+Added Component: Designator=L2(INDPM108102X400N)
+Added Component: Designator=L3(INDPM108102X400N)
+Added Pin To Net: NetName=GNDA Pin=L1-1
+Added Pin To Net: NetName=NetC10_2 Pin=L1-2
+Added Pin To Net: NetName=NetJ5_1 Pin=L2-1
+Added Pin To Net: NetName=NetC16_1 Pin=L2-2
+Added Pin To Net: NetName=GNDA Pin=L3-1
+Added Pin To Net: NetName=NetC13_1 Pin=L3-2
+Added Member To Class: ClassName=EVA9720 Member=Component L1 28F0121-0SR-10
+Added Member To Class: ClassName=EVA9720 Member=Component L2 28F0121-0SR-10
+Added Member To Class: ClassName=EVA9720 Member=Component L3 Inductor

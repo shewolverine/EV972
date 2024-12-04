@@ -1,0 +1,4 @@
+Added Component: Designator=L5(INDPM108102X400N)
+Added Pin To Net: NetName=NetB1_29 Pin=L5-1
+Added Pin To Net: NetName=NetB1_27 Pin=L5-2
+Added Member To Class: ClassName=TankPins Member=Component L5 28F0121-0SR-10

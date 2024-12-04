@@ -1,0 +1,3 @@
+Added Component: Designator=TL1(test_point)
+Added Pin To Net: NetName=NetC12_2 Pin=TL1-1
+Added Member To Class: ClassName=EVA9720 Member=Component TL1 TP_1

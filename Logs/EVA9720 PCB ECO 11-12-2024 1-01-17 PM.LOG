@@ -1,0 +1,14 @@
+Added Component: Designator=U3(SOT95P280X145-5N)
+Added Component: Designator=U4(SOT95P280X145-5N)
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=GNDD Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=NetC29_2 Pin=U3-4
+Added Pin To Net: NetName=NetC27_2 Pin=U3-5
+Added Pin To Net: NetName=VCC Pin=U4-1
+Added Pin To Net: NetName=GNDA Pin=U4-2
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Pin To Net: NetName=NetC32_2 Pin=U4-4
+Added Pin To Net: NetName=NetC30_2 Pin=U4-5
+Added Member To Class: ClassName=EVA9720 Member=Component U3 LP2985IM5X-3.3/NOPB
+Added Member To Class: ClassName=EVA9720 Member=Component U4 LP2985IM5X-3.3/NOPB

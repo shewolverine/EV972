@@ -1,0 +1,4 @@
+Added Component: Designator=R28(0805)
+Added Pin To Net: NetName=NetC27_2 Pin=R28-1
+Added Pin To Net: NetName=+3V3D Pin=R28-2
+Added Member To Class: ClassName=EVA9720 Member=Component R28 Res_0805

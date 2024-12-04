@@ -1,0 +1,4 @@
+Added Component: Designator=C27(1210)
+Added Pin To Net: NetName=GNDD Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Member To Class: ClassName=EVA9720 Member=Component C27 Cap_0805

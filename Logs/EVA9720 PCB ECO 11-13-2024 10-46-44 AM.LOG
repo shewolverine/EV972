@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=W1 NewDesignator=JP1
+Change Component Designator: OldDesignator=W2 NewDesignator=JP2
+Added Member To Class: ClassName=EVA9720 Member=Component TL1 TP_1
